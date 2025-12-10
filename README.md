@@ -456,4 +456,4 @@ If you encounter any issues or have questions:
 
 ---
 
-*Last Updated: December 2, 2025*
+*Last Updated: December 7, 2025*
